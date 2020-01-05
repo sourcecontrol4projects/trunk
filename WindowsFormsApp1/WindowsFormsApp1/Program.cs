@@ -9,7 +9,7 @@ namespace WindowsFormsApp1
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entry point for the application. To Test checked in from visual studio
         /// </summary>
         [STAThread]
         static void Main()
